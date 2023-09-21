@@ -12,3 +12,6 @@ following options: "<b>rock</b>", "<b>paper</b>" or "<b>scissors</b>". The rules
 </ul>
 
 <p>The winner is the player whose choice beats the choice of their opponent. If both players choose the same option, the game ends in a draw.</p>
+
+<div>Example screenshot:</div>
+<img alt="screenshot" width="700px" src="https://github.com/kimin8/RockPaperScissors-softuni/assets/126898516/8140c114-5113-4e83-9d40-066dd5bc3a0e"></img>
