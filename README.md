@@ -1,4 +1,4 @@
-# The "Rock - Paper - Scissors" Game0
+# The "Rock - Paper - Scissors" Game
 
 <b>Live Demo</b>
 <br>
