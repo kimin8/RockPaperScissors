@@ -1,4 +1,9 @@
-# The "Rock - Paper - Scissors" Game
+# The "Rock - Paper - Scissors" Game0
+
+<b>Live Demo</b>
+<br>
+Click the URL linked with this repository and enjoy a live demo of the game! :)
+
 <p>This is a Python based implementation of the popular "Rock Paper Scissors" game.</p>
 <img alt ="Image" width="250px" src="https://i0.wp.com/www.thegamegal.com/wp-content/uploads/2012/01/Rock-paper-scissors.png?w=500&ssl=1"></img>
 
